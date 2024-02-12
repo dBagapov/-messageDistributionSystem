@@ -1,0 +1,12 @@
+C:\Users\bagap\RiderProjects\MessageDistributionSystem\Lab3\obj\Debug\net7.0\Lab3.csproj.AssemblyReference.cache
+C:\Users\bagap\RiderProjects\MessageDistributionSystem\Lab3\obj\Debug\net7.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bagap\RiderProjects\MessageDistributionSystem\Lab3\obj\Debug\net7.0\Lab3.AssemblyInfoInputs.cache
+C:\Users\bagap\RiderProjects\MessageDistributionSystem\Lab3\obj\Debug\net7.0\Lab3.AssemblyInfo.cs
+C:\Users\bagap\RiderProjects\MessageDistributionSystem\Lab3\obj\Debug\net7.0\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\bagap\RiderProjects\MessageDistributionSystem\Lab3\bin\Debug\net7.0\Lab3.deps.json
+C:\Users\bagap\RiderProjects\MessageDistributionSystem\Lab3\bin\Debug\net7.0\Lab3.dll
+C:\Users\bagap\RiderProjects\MessageDistributionSystem\Lab3\bin\Debug\net7.0\Lab3.pdb
+C:\Users\bagap\RiderProjects\MessageDistributionSystem\Lab3\obj\Debug\net7.0\Lab3.dll
+C:\Users\bagap\RiderProjects\MessageDistributionSystem\Lab3\obj\Debug\net7.0\refint\Lab3.dll
+C:\Users\bagap\RiderProjects\MessageDistributionSystem\Lab3\obj\Debug\net7.0\Lab3.pdb
+C:\Users\bagap\RiderProjects\MessageDistributionSystem\Lab3\obj\Debug\net7.0\ref\Lab3.dll
